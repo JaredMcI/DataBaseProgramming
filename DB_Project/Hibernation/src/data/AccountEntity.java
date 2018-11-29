@@ -3,6 +3,7 @@ package data;
 import javax.persistence.*;
 import java.sql.Time;
 import java.sql.Timestamp;
+import java.util.Date;
 import java.util.Objects;
 
 @Entity
@@ -11,7 +12,7 @@ public class AccountEntity {
     private long accountid;
     private String name;
     private String type;
-    private Time dob;
+    private Date dob;
     private String password;
     private String status;
     private String email;
@@ -51,11 +52,11 @@ public class AccountEntity {
 
     @Basic
     @Column(name = "DOB")
-    public Time getDob() {
+    public Date getDob() {
         return dob;
     }
 
-    public void setDob(Time dob) {
+    public void setDob(Date dob) {
         this.dob = dob;
     }
 

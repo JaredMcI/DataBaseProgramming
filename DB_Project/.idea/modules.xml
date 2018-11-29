@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DB_Project.iml" filepath="$PROJECT_DIR$/DB_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" filepath="$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernation/Hibernation.iml" filepath="$PROJECT_DIR$/Hibernation/Hibernation.iml" />
     </modules>
   </component>

@@ -18,10 +18,20 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="Hibernation" exported="" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Desktop/oc4j_extended_101350/ojdbc14dms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="Hibernate 5.3.7-5.3.7" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/jdbc/lib/ojdbc14dms.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
