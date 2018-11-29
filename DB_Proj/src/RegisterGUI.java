@@ -1,5 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class RegisterGUI {
     static JFrame Window, WindowB;
@@ -7,8 +9,10 @@ public class RegisterGUI {
     static Font ButtonFont = new Font("Timers New Roman", Font.PLAIN, 30);
     static Font StatFont = new Font("Times New Roman", Font.PLAIN, 15);
     static Container cont, contB;
-    static JPanel TitlePanel, ButtonPanel;
+    static JPanel TitlePanel, ButtonPanel, FormPanel;
     static JButton Register, Login;
+    static RegisterHandler RegisterHandler = new RegisterHandler();
+
 
     public static void CreateGUI() {
 
@@ -50,19 +54,66 @@ public class RegisterGUI {
         Login.setVisible(true);
         ButtonPanel.add(Login);
 
-        //Register.addActionListener(TitleScreenHandler);
+        Register.addActionListener(RegisterHandler);
 
         cont.add(ButtonPanel);
 
-
-
-
-
-
-
-
-
     }
+    public static class RegisterHandler implements ActionListener{
+        public void actionPerformed(ActionEvent e) {
+            TitlePanel.setVisible(false);
+            ButtonPanel.setVisible(false);
+
+            FormPanel = new JPanel();
+            FormPanel.setBounds(100,150,600,300);
+            FormPanel.setBackground(Color.BLACK);
+
+
+            JLabel username = new JLabel("username: ");
+            username.setBounds(100,50,100,20);     ;
+            JLabel password = new JLabel("password: ");
+            password.setBounds(100,100,100,20);
+            JLabel DOB = new JLabel("D/O/B: ");
+            DOB.setBounds(100,150,100,20);
+            JLabel Email = new JLabel("Email: ");
+            Email.setBounds(100,200,100,20);
+
+            username.setForeground(Color.RED);
+            password.setForeground(Color.RED);
+            DOB.setForeground(Color.RED);
+            Email.setForeground(Color.RED);
+
+            JTextField usernametxt = new JTextField();
+            usernametxt.setBounds(210,50,100,20);
+            JTextField passwordtxt = new JTextField();
+            passwordtxt.setBounds(210,100,100,20);
+            JTextField DOBtxt = new JTextField();
+            DOBtxt.setBounds(210,150,100,20);
+            JTextField Emailtxt = new JTextField();
+            Emailtxt.setBounds(210,200,100,20);
+
+
+            FormPanel.add(username);
+            FormPanel.add(usernametxt);
+            FormPanel.add(password);
+            FormPanel.add(passwordtxt);
+            FormPanel.add(DOB);
+            FormPanel.add(DOBtxt);
+            FormPanel.add(Email);
+            FormPanel.add(Emailtxt);
+
+            JButton Insert = new JButton("Register");
+            Insert.setBounds(100,250,100,20);
+            FormPanel.add(Insert);
+
+
+
+            FormPanel.setLayout(null);
+            cont.add(FormPanel);
+
+
+
+        }}
 
 
 }
