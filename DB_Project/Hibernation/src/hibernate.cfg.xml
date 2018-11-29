@@ -4,23 +4,31 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
+
         <property name="connection.url">jdbc:oracle:thin:@//studentoracle.students.ittralee.ie:1521/orcl</property>
+
         <property name="connection.driver_class">oracle.jdbc.OracleDriver</property>
-        <mapping class="data.AccountEntity"/>
-        <mapping class="data.CastEntity"/>
-        <mapping class="data.EmployeeEntity"/>
-        <mapping class="data.MediaEntity"/>
-        <mapping class="data.ReviewEntity"/>
-        <mapping class="data.EmployeebasicviewEntity"/>
-        <mapping class="data.GamebasicviewEntity"/>
-        <mapping class="data.MoviebasicviewEntity"/>
-        <property name="connection.username"/> t00193170
-        <property name="connection.password"/> y55qjsby
+        <property name="connection.username">t00193170</property>
+        <property name="connection.password">y55qjsby</property>
+
+        <property name="hibernate.dialect">org.hibernate.dialect.OracleDialect</property>
+        <property name="show_sql">true</property>
+        <property name="hbm2ddl.auto">create</property>
+
+
+        <mapping class="data.AccountEntity"></mapping>
+        <mapping class="data.CastEntity"></mapping>
+        <mapping class="data.EmployeeEntity"></mapping>
+        <mapping class="data.MediaEntity"></mapping>
+        <mapping class="data.ReviewEntity"></mapping>
+        <mapping class="data.EmployeebasicviewEntity"></mapping>
+        <mapping class="data.GamebasicviewEntity"></mapping>
+        <mapping class="data.MoviebasicviewEntity"></mapping>
 
 
 
-        <!-- DB schema will be updated if needed -->
-        <!-- <property name="hbm2ddl.auto">update</property> -->
+                <!-- DB schema will be updated if needed -->
+                <!-- <property name="hbm2ddl.auto">update</property> -->
 
     </session-factory>
 </hibernate-configuration>

@@ -9,6 +9,8 @@ import javax.persistence.metamodel.EntityType;
 
 import java.util.Map;
 
+//https://stackoverflow.com/questions/38769494/insert-data-into-table-using-hibernate
+//https://howtodoinjava.com/hibernate/hibernate-insert-query-tutorial/
 public class Main {
     private static final SessionFactory ourSessionFactory;
 

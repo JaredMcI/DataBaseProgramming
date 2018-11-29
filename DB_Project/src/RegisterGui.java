@@ -1,3 +1,5 @@
+import data.AccountEntity;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -12,6 +14,7 @@ public class RegisterGui {
     static JPanel TitlePanel, ButtonPanel, FormPanel;
     static JButton Register, Login;
     static RegisterHandler RegisterHandler = new RegisterHandler();
+    static InsertHandler InsertHandler = new InsertHandler();
 
 
     public static void CreateGUI() {
@@ -104,6 +107,7 @@ public class RegisterGui {
 
             JButton Insert = new JButton("Register");
             Insert.setBounds(100,250,100,20);
+            Insert.addActionListener(InsertHandler);
             FormPanel.add(Insert);
 
 
@@ -114,6 +118,14 @@ public class RegisterGui {
 
 
         }}
+
+    public static class InsertHandler implements ActionListener{
+        public void actionPerformed(ActionEvent e) {
+
+
+        }
+
+        }
 
 
 }

@@ -17,5 +17,15 @@
         <jarDirectory url="file://C:/Program Files (x86)/Java/jre1.8.0_171" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="Hibernation" exported="" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/oc4j_extended_101350/ojdbc14dms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

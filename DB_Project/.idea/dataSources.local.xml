@@ -9,6 +9,12 @@
       <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>t00193170</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+    <data-source name="hibernate.cfg.xml/Hibernate" uuid="58fc592c-891d-482e-a7b1-9be3311c2d00">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="ORACLE" exact-version="0.0" />
+      <first-sync>true</first-sync>
+      <user-name>t00193170</user-name>
     </data-source>
   </component>
 </project>
