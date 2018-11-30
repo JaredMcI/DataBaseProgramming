@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="@studentoracle.students.ittralee.ie" uuid="684c4831-1739-4641-8868-6a04e81abee2">
-      <driver-ref>oracle</driver-ref>
-      <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
-      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@//studentoracle.students.ittralee.ie:1521/orcl</jdbc-url>
-      <driver-properties>
-        <property name="v$session.program" value="DataGrip" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="58fc592c-891d-482e-a7b1-9be3311c2d00">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
@@ -18,6 +8,16 @@
       <remarks>Hibernate
 
 C:/DataBaseProgramming/DB_Project/Hibernation/src/hibernate.cfg.xml</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//studentoracle.students.ittralee.ie:1521/orcl</jdbc-url>
+      <driver-properties>
+        <property name="v$session.program" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="@studentoracle.students.ittralee.ie" uuid="4c60d682-5a8e-48ed-8552-e741f5f26d33">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//studentoracle.students.ittralee.ie:1521/orcl</jdbc-url>

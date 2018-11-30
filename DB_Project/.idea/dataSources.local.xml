@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="@studentoracle.students.ittralee.ie" uuid="684c4831-1739-4641-8868-6a04e81abee2">
-      <database-info product="Oracle" version="Oracle Database 10g Enterprise Edition Release 10.2.0.1.0 - Production&#10;With the Partitioning, OLAP and Data Mining options" jdbc-version="4.0" driver-name="Oracle JDBC driver" driver-version="12.1.0.2.0" family="ORACLE" exact-version="10.2.0.1">
-        <extra-name-characters>$#</extra-name-characters>
-        <identifier-quote-string>&quot;</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>t00193170</user-name>
-      <introspection-schemas>*:@</introspection-schemas>
-    </data-source>
     <data-source name="hibernate.cfg.xml/Hibernate" uuid="58fc592c-891d-482e-a7b1-9be3311c2d00">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="ORACLE" exact-version="0.0" />
+      <first-sync>true</first-sync>
+      <user-name>t00193170</user-name>
+    </data-source>
+    <data-source name="@studentoracle.students.ittralee.ie" uuid="4c60d682-5a8e-48ed-8552-e741f5f26d33">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="ORACLE" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
       <first-sync>true</first-sync>
       <user-name>t00193170</user-name>
     </data-source>
