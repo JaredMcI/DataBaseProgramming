@@ -2,27 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19058943-19c6-43bd-84f8-8c204854b4e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/684c4831-1739-4641-8868-6a04e81abee2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Project/GUImain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB_Project/GUImain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui$InsertHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui$InsertHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui$RegisterHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui$RegisterHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB_Project/RegisterGui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Project/TestHibernateInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DB_Project/TestHibernateInsert.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/AccountEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/AccountEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/CastEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/CastEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/EmployeeEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/EmployeeEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/EmployeebasicviewEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/EmployeebasicviewEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/GamebasicviewEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/GamebasicviewEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/MediaEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/MediaEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/MoviebasicviewEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/MoviebasicviewEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/data/ReviewEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/data/ReviewEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hibernation/net/codejava/hibernate/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hibernation/net/codejava/hibernate/HibernateUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestHibernateInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestHibernateInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/libraries/Maven__com_oracle_ojdbc6_11_1_0_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven_DB_Proj/ExampleDynamicDatabaseController/target/classes/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/_1/target/" />
@@ -88,10 +81,10 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -132,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/Hibernation/src/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="92" lean-forward="true" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
+              <caret line="13" column="92" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -152,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hibernation/src/data/AccountEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="114" column="38" lean-forward="true" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
+            <state relative-caret-position="1258">
+              <caret line="114" column="38" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2260#2261#0" expanded="true" />
@@ -179,7 +172,7 @@
         <entry file="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -254,10 +247,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
-    <option name="width" value="1263" />
-    <option name="height" value="1167" />
+    <option name="width" value="953" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -266,7 +259,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,12 +270,6 @@
             <path>
               <item name="DB_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="DB_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Hibernation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DB_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DB_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Hibernation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -293,7 +280,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,7 +289,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543586046484" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Hibernation/src" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jdbc/lib/ojdbc14dms.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -368,16 +354,17 @@
       <workItem from="1543509453441" duration="4258000" />
       <workItem from="1543515703400" duration="9169000" />
       <workItem from="1543576911332" duration="3291000" />
+      <workItem from="1543838889447" duration="1253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18652000" />
+    <option name="totallyTimeSpent" value="19905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-7" y="0" width="953" height="1047" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33818588" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Persistence" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -436,6 +423,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c60d682-5a8e-48ed-8552-e741f5f26d33/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Hibernation/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="92" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RegisterGui.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
@@ -445,6 +440,38 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hibernation/src/data/AccountEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="114" column="38" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2260#2261#0" expanded="true" />
+            <element signature="e#2295#2296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestHibernateInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Hibernation/src/net/codejava/hibernate/HibernateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -460,48 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c60d682-5a8e-48ed-8552-e741f5f26d33/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/ExampleDynamicDatabaseController.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestHibernateInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hibernation/src/data/AccountEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="114" column="38" lean-forward="true" selection-start-line="114" selection-start-column="38" selection-end-line="114" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
-            <element signature="e#2295#2296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExampleDynamicDatabaseController/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hibernation/src/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="92" lean-forward="true" selection-start-line="13" selection-start-column="92" selection-end-line="13" selection-end-column="92" />
         </state>
       </provider>
     </entry>
